@@ -1,2 +1,2 @@
 # springBoot
- spring boot project with myspl
+ spring boot project with mysql
